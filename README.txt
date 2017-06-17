@@ -1,0 +1,1 @@
+OpenDyslexic is a new open source font created to increase readability for readers with dyslexia. The typeface includes regular, bold, italic, and bold-italic styles. It is being updated continually and improved based on input from dyslexic users. OpenDyslexic is free for Commercial and Personal use.
